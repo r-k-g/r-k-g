@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hello!
 
 <!--
 **r-k-g/r-k-g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
