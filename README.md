@@ -1,7 +1,7 @@
 ## Hello!
 Thanks for stopping by. I'm a software engineering student at the University of Waterloo.
 
-## Other projects
+## Older projects
 These projects are hosted on Bitbucket, I may get around to moving them here someday.
 
 ### Minesweeper
